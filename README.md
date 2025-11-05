@@ -18,3 +18,8 @@ Nosso foco é levar eficiência ao campo através de:
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/PIC-E40030?style=for-the-badge&logo=microchiptechnology&logoColor=white" />
 </p>
+
+## 🌐Contatos
+<div>
+<a href="https://www.linkedin.com/company/ephyra-iot/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
