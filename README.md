@@ -1,13 +1,32 @@
 ## Olá! 👋 Somos a Ephyra IoT.
 
-> ### Tecnologia que cultiva resultados. 🌾
+> ### Tecnologia que cultiva resultados. 🌾  
 Somos uma startup de tecnologia impulsionada pela missão de criar soluções IoT inovadoras e acessíveis, ajudando o pequeno e médio produtor rural a automatizar processos e otimizar recursos.
+
 ## 🚀 Sobre Nós
+
+<table>
+<tr>
+<td>
+
 Nosso foco é levar eficiência ao campo através de:
-* **💻⚙️Automação** de processos
-* **🛜Conectividade** (IoT)
-* **📈Otimização** e uso inteligente de recursos
-* **🌱Sustentabilidade**
+
+* **💻⚙️ Automação** de processos  
+* **🛜 Conectividade** (IoT)  
+* **📈 Otimização** e uso inteligente de recursos  
+* **🌱 Sustentabilidade**
+
+</td>
+<td align="center" style="vertical-align: middle;">
+
+<img src="logo.animado.gif" alt="Logo animado" width="120"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 💡 Nossas Ferramentas e Tecnologias
 
 <p align="left">
@@ -19,7 +38,9 @@ Nosso foco é levar eficiência ao campo através de:
   <img src="https://img.shields.io/badge/PIC-E40030?style=for-the-badge&logo=microchiptechnology&logoColor=white" />
 </p>
 
-## 🌐Contatos
+## 🌐 Contatos
 <div>
-<a href="https://www.linkedin.com/company/ephyra-iot/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/company/ephyra-iot/" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
